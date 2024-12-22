@@ -13,3 +13,6 @@
 [submodule "ethernaut/fal1out/lib/forge-std"]
 	path = ethernaut/fal1out/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ethernaut/coin-flip/lib/forge-std"]
+	path = ethernaut/coin-flip/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
