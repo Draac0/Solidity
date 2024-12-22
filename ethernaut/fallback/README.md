@@ -64,10 +64,3 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-
-
-# Installation (Author)
-The below command lets you install the Chainlink Brownie contracts library.
-```bash
-forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
-```
