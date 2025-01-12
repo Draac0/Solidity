@@ -19,3 +19,6 @@
 [submodule "ethernaut/telephone/lib/forge-std"]
 	path = ethernaut/telephone/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ethernaut/token/lib/forge-std"]
+	path = ethernaut/token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
