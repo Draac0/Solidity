@@ -25,3 +25,6 @@
 [submodule "ethernaut/delegation/lib/forge-std"]
 	path = ethernaut/delegation/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ethernaut/force/lib/forge-std"]
+	path = ethernaut/force/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
