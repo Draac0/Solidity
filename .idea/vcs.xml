@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ethernaut-ctf/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/foundry-f23/fund-me/lib/chainlink-brownie-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/foundry-f23/fund-me/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/foundry-f23/simple-storage/lib/forge-std" vcs="Git" />
+  </component>
+</project>
